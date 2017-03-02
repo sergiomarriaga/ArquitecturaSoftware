@@ -1,0 +1,5 @@
+com/udea/arqlab2/entity/Payment_.class
+com/udea/arqlab2/entity/Payment.class
+com/udea/arqlab2/entity/logica/PaymentFacade.class
+com/udea/arqlab2/entity/logica/AbstractFacade.class
+com/udea/arqlab2/entity/logica/PaymentFacadeLocal.class
